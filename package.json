@@ -1,0 +1,12 @@
+{
+  "name": "teste_target_sistemas",
+  "version": "1.0.0",
+  "description": "Este repositório contém o código de um teste prático realizado para a **Target Sistemas**. O objetivo deste teste é demonstrar habilidades em lógica de programação.",
+  "main": "questao2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
