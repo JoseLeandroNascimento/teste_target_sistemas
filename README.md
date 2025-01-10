@@ -24,19 +24,25 @@ Para rodar este código em sua máquina local, siga as etapas abaixo:
 
 1. **Clone este repositório para seu computador**:
 
-   ```bash
+```bash
    git clone https://github.com/JoseLeandroNascimento/teste_target_sistemas
+
+   ```
 
 2. **Acesse o diretório do projeto:**:
 
   ```bash
   cd teste-pratico-target
 
+  ```
+
 
 3. **Execute cada um dos arquivos para testar as funcionalidades**:
 
   ```bash
   node nome_arquivo.js
+
+  ```
 
 
 
