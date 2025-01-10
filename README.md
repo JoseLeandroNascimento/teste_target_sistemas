@@ -43,8 +43,11 @@ Para rodar este código em sua máquina local, siga as etapas abaixo:
   node nome_arquivo.js
 
   ```
+<<<<<<< HEAD
 
 
 
 
 
+=======
+>>>>>>> 98fd6ba2e31c5e26edb41f9770b07455a962bb8e
