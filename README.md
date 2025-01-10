@@ -27,10 +27,14 @@ Para rodar este código em sua máquina local, siga as etapas abaixo:
    ```bash
    git clone https://github.com/JoseLeandroNascimento/teste_target_sistemas
 
+   ```
+
 2. **Acesse o diretório do projeto:**:
 
   ```bash
   cd teste-pratico-target
+
+  ```
 
 
 3. **Execute cada um dos arquivos para testar as funcionalidades**:
@@ -38,7 +42,4 @@ Para rodar este código em sua máquina local, siga as etapas abaixo:
   ```bash
   node nome_arquivo.js
 
-
-
-
-
+  ```
